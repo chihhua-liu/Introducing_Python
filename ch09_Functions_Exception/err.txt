@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Temp/ipykernel_19324/3025610929.py", line 12, in <module>
+    CheckSpeed(speed)
+  File "C:\Users\USER\AppData\Local\Temp/ipykernel_19324/3025610929.py", line 6, in CheckSpeed
+    raise Exception("速度太慢!")
+Exception: 速度太慢!
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Temp/ipykernel_19324/3025610929.py", line 12, in <module>
+    CheckSpeed(speed)
+  File "C:\Users\USER\AppData\Local\Temp/ipykernel_19324/3025610929.py", line 8, in CheckSpeed
+    raise Exception("已經超速!")
+Exception: 已經超速!
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Temp/ipykernel_19324/2145553287.py", line 12, in <module>
+    CheckSpeed(speed)
+  File "C:\Users\USER\AppData\Local\Temp/ipykernel_19324/2145553287.py", line 6, in CheckSpeed
+    raise Exception("速度太慢!")
+Exception: 速度太慢!
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Temp/ipykernel_19324/2145553287.py", line 12, in <module>
+    CheckSpeed(speed)
+  File "C:\Users\USER\AppData\Local\Temp/ipykernel_19324/2145553287.py", line 8, in CheckSpeed
+    raise Exception("已經超速!")
+Exception: 已經超速!
